@@ -25,6 +25,7 @@ Users need to enter the same input per column as in the csv file. I used Bloombe
 - In the example ("Wounded Wolves") stock screening is a deep value screen that is meant to screen candidates for the long term/
 - For this reason, the app measures a stock performance during different holding period, including even those where the stock no longer is screened by the criteria. 
 - If the user wants to work with a more short-term minded stock screening criteria and wants to measure peformance only for those periods where a particular stock is screened, it shall add another column "exit_date" and change the code.
+- Read the pdf research attached or the related post at NYCDSA blog to get more familiar with the app usage https://nycdatascience.com/blog/r/quant-screening-backtesting-turnaround-stocks/
 
 
 
